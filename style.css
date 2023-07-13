@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    padding: 0;
+    margin: 0;
+}
+main{
+    display: flex;
+}
+#slist{
+    width: 25%;
+    height: 100vh;
+    overflow: auto;
+    background: whitesmoke;
+}
+#smap{
+    height: 100vh;
+    width: 75%;
+    /* border: 2px solid rgb(255, 116, 2); */
+}
+#heading{
+    background: rgba(68, 254, 254, 0.743);
+    border-bottom: 4px solid rgb(0, 141, 141);
+}
+#heade1id{
+    color: rgb(0, 0, 0);
+    padding: 0.5rem;
+    text-align: center;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 3px;
+    border-left: 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(0, 141, 141);
+    border-radius: 0;
+}
+
+#slist ul.list{
+    padding: 1rem;
+    list-style-type: none;
+}
+
+#slist .shopitem{
+    margin: 1rem 0;
+    border-bottom: 2px solid rgba(0, 141, 141, 0.393);
+    padding-bottom: 1rem;
+}
+#slist li:last-child .shopitem{
+    border: none;
+}
+#slist .shopitem a{
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 21px;
+    color: rgb(0, 141, 141);
+}
+.store-list .shop-item p {
+    font-size: 14px;
+    color: #000000;
+}
+.leaflet-popup-content-wrapper {
+    padding: 0;
+    overflow: hidden;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+    margin: 0;
+}
+.leaflet-popup-content-wrapper h4 {
+    padding: 16px;
+    background: rgba(68, 254, 254, 0.743);
+    border-bottom: 1px solid rgb(0, 141, 141);
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+.leaflet-popup-content-wrapper p {
+    padding: 0 16px;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content .phone-number {
+    padding: 16px;
+    padding-top: 0;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content .phone-number a {
+    color: rgb(1, 108, 108);
+    font-size: 14px;
+}
