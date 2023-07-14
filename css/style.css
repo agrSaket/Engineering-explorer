@@ -69,9 +69,9 @@ main{
     margin: 0;
 }
 .leaflet-popup-content-wrapper h4 {
-    padding: 16px;
-    background: rgba(68, 254, 254, 0.743);
-    border-bottom: 1px solid rgb(0, 141, 141);
+    padding: 10px;
+    /* background: rgba(68, 254, 254, 0.743);
+    border-bottom: 1px solid rgb(0, 141, 141); */
     color: rgb(0, 0, 0);
     font-size: 16px;
 }
@@ -79,6 +79,18 @@ main{
     padding: 0 16px;
     font-size: 14px;
     margin-bottom: 14px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content img {
+    margin: 6px;
+    width: 40px;
+    height: 40px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(68, 254, 254, 0.743);
+    border-bottom: 1px solid rgb(0, 141, 141);
 }
 .leaflet-popup-content-wrapper .leaflet-popup-content .phone-number {
     padding: 16px;

@@ -9,7 +9,8 @@ const storeList = [
             "name": "Indian Institute of Technology Madras",
             "address": "Chennai - 600036, Tamil Nadu, India",
             "rank": "1",
-            "website" : "https://www.iitm.ac.in/"
+            "website" : "https://www.iitm.ac.in/",
+            "photo" : './img/logo/IIT_Madras_Logo.svg.png'
         }
     },
     {
@@ -22,7 +23,8 @@ const storeList = [
             "name": "Indian Institute of Technology Delhi",
             "address": "Hauz Khas, New Delhi - 110016, India",
             "rank": "2", 
-            "website" : "https://home.iitd.ac.in/"
+            "website" : "https://home.iitd.ac.in/",
+            "photo" : './img/logo/iitd.svg.png'
         }
     },
     {
@@ -35,7 +37,8 @@ const storeList = [
             "name": "Indian Institute of Technology Bombay",
             "address": "Powai, Mumbai - 400076, Maharashtra, India",
             "rank": "3", 
-            "website" : "https://www.iitb.ac.in/"
+            "website" : "https://www.iitb.ac.in/",
+            "photo" : './img/logo/iitb.svg.png'
         }
     },
     {
@@ -48,7 +51,8 @@ const storeList = [
             "name": "Indian Institute of Technology Kanpur",
             "address": "Kalyanpur, Kanpur - 208016, Uttar Pradesh, India",
             "rank": "4", 
-            "website" : "https://www.iitk.ac.in/"
+            "website" : "https://www.iitk.ac.in/",
+            "photo" : './img/logo/iitk.svg.png'
         }
     },
     {
@@ -61,7 +65,8 @@ const storeList = [
             "name": "Indian Institute of Technology Roorkee",
             "address": "Roorkee - 247667, Uttarakhand, India",
             "rank": "5", 
-            "website" : "https://www.iitr.ac.in/"
+            "website" : "https://www.iitr.ac.in/",
+            "photo" : './img/logo/iitr.png'
         }
     },
     {
@@ -74,7 +79,8 @@ const storeList = [
             "name": "Indian Institute of Technology Kharagpur",
             "address": "Kharagpur - 721302, West Bengal, India",
             "rank": "6", 
-            "website" : "https://www.iitkgp.ac.in/"
+            "website" : "https://www.iitkgp.ac.in/",
+            "photo" : './img/logo/iitkgp.svg.png'
         }
     },
     {
@@ -87,7 +93,8 @@ const storeList = [
             "name": "Indian Institute of Technology Guwahati",
             "address": "Guwahati- 781039, Assam, India",
             "rank": "7", 
-            "website" : "https://www.iitg.ac.in/"
+            "website" : "https://www.iitg.ac.in/",
+            "photo" : './img/logo/IITG_logo.png'
         }
     },
     {
@@ -100,7 +107,8 @@ const storeList = [
             "name": "Indian Institute of Technology Hyderabad",
             "address": "Kandi, Sangareddy - 502285, Telangana, India",
             "rank": "8", 
-            "website" : "https://home.iith.ac.in/"
+            "website" : "https://home.iith.ac.in/",
+            "photo" : './img/logo/iithyderabad.png'
         }
     },
     {
@@ -113,7 +121,8 @@ const storeList = [
             "name": "National Institute of Technology Tiruchirappalli",
             "address": "Tanjore Main Road, Tiruchirappalli - 620015, Tamil Nadu, India",
             "rank": "9", 
-            "website" : "https://www.nitt.edu/"
+            "website" : "https://www.nitt.edu/",
+            "photo" : './img/logo/nittrichy.png'
         }
     },
     {
@@ -126,7 +135,8 @@ const storeList = [
             "name": "Jadavpur University ",
             "address": "Raja S. C. Mallick Road, Kolkata - 700032, West Bengal, India",
             "rank": "10", 
-            "website" : "http://www.jaduniv.edu.in/"
+            "website" : "http://www.jaduniv.edu.in/",
+            "photo" : './img/logo/10.svg.png'
         }
     },
     {
@@ -139,7 +149,8 @@ const storeList = [
             "name": "Vellore Institute of Technology",
             "address": "Vellore - 632014, Tamil Nadu, India",
             "rank": "11", 
-            "website" : " https://vit.ac.in/"
+            "website" : " https://vit.ac.in/",
+            "photo" : './img/logo/11.png'
         }
     },
     {

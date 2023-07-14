@@ -33,7 +33,10 @@ generateList();
 function makePopupContent(shop) {
     return `
         <div>
-            <h4>${shop.properties.name}</h4>
+            <div class="flex">
+                <img src=${shop.properties.photo}> 
+                <h4>${shop.properties.name}</h4>
+            </div>
             <p>${shop.properties.address}</p>
             <p>Rank : ${shop.properties.rank}</p>
             <p><a href=${shop.properties.website}>${shop.properties.website}</a></p>
@@ -46,7 +49,7 @@ function onEachFeature(feature, layer) {
 }
 
 var myIcon = L.icon({
-    iconUrl: 'pngwing.png',
+    iconUrl: './img/pngwing.png',
     iconSize: [30, 30]
 });
 
