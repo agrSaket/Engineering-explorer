@@ -150,7 +150,7 @@ const storeList = [
             "address": "Vellore - 632014, Tamil Nadu, India",
             "rank": "11", 
             "website" : " https://vit.ac.in/",
-            "photo" : './img/logo/11.png'
+            "photo" : './img/logo/11.png'      
         }
     },
     {
@@ -163,7 +163,8 @@ const storeList = [
             "name": "National Institute of Technology Karnataka",
             "address": "Srinivasnagar, Surathkal, Mangalore - 575025, Karnataka, India",
             "rank": "12", 
-            "website" : " https://www.nitk.ac.in/"
+            "website" : " https://www.nitk.ac.in/",
+            "photo" : './img/logo/ilogo.png'
         }
     },
     {
@@ -176,7 +177,9 @@ const storeList = [
             "name": "Anna University",
             "address": "Sardar Patel Road, Guindy, Chennai - 600025, Tamil Nadu, India",
             "rank": "13", 
-            "website" : "https://www.annauniv.edu/"
+            "website" : "https://www.annauniv.edu/",
+            "photo" : './img/logo/ilogo.png',
+            "photo" : './img/logo/ilogo.png'
         }
     },
     {
@@ -189,6 +192,7 @@ const storeList = [
             "name": "Indian Institute of Technology Indore",
             "address": "Khandwa Road, Simrol, Indore - 453552, Madhya Pradesh, India",
             "rank": "14", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iiti.ac.in/"
         }
     },
@@ -202,6 +206,7 @@ const storeList = [
             "name": "Indian Institute of Technology (BHU), Varanasi",
             "address": "Varanasi - 221005, Uttar Pradesh, India",
             "rank": "15", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitbhu.ac.in/"
         }
     },
@@ -215,6 +220,7 @@ const storeList = [
             "name": "National Institute of Technology Rourkela",
             "address": "Rourkela - 769008, Odisha, India",
             "rank": "16", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitrkl.ac.in/"
         }
     },
@@ -228,6 +234,7 @@ const storeList = [
             "name": "Indian Institute of Technology (ISM)",
             "address": "Dhanbad - 826004, Jharkhand, India",
             "rank": "17", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitism.ac.in/"
         }
     },
@@ -241,6 +248,7 @@ const storeList = [
             "name": "Indian Institute of Technology Gandhinagar",
             "address": "Palaj, Gandhinagar - 382355, Gujarat, India",
             "rank": "18", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitgn.ac.in/"
         }
     },
@@ -254,6 +262,7 @@ const storeList = [
             "name": "Amrita Vishwa Vidyapeetham",
             "address": "Amritanagar, Coimbatore - 641112, Tamil Nadu, India",
             "rank": "19", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.amrita.edu/"
         }
     },
@@ -267,6 +276,7 @@ const storeList = [
             "name": "Thapar Institute of Engineering and Technology",
             "address": "Patiala - 147004, Punjab, India",
             "rank": "20", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.thapar.edu/"
         }
     },
@@ -280,6 +290,7 @@ const storeList = [
             "name": "National Institute of Technology Warangal",
             "address": "Warangal - 506004, Telangana, India",
             "rank": "21", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitw.ac.in/"
         }
     },
@@ -293,6 +304,7 @@ const storeList = [
             "name": "Indian Institute of Technology Ropar",
             "address": "Rupnagar - 140001, Punjab, India",
             "rank": "22", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitrpr.ac.in/"
         }
     },
@@ -306,6 +318,7 @@ const storeList = [
             "name": "National Institute of Technology Calicut",
             "address": "Kozhikode - 673601, Kerala, India",
             "rank": "23", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitc.ac.in/"
         }
     },
@@ -319,6 +332,7 @@ const storeList = [
             "name": "Institute of Chemical Technology",
             "address": "Nathalal Parekh Marg, Matunga, Mumbai - 400019",
             "rank": "24", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.ictmumbai.edu.in/"
         }
     },
@@ -332,6 +346,7 @@ const storeList = [
             "name": "Birla Institute of Technology & Science - Pilani",
             "address": "Vidya Vihar, Pilani - 333031, Rajasthan, India",
             "rank": "25", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.bits-pilani.ac.in/"
         }
     },
@@ -345,6 +360,7 @@ const storeList = [
             "name": "Jamia Millia Islamia, New Delhi",
             "address": "Jamia Nagar, New Delhi - 110025, India",
             "rank": "26", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.jmi.ac.in/"
         }
     },
@@ -358,6 +374,7 @@ const storeList = [
             "name": "Siksha 'O' Anusandhan",
             "address": "Khandagiri Square, Bhubaneswar - 751030, Odisha, India",
             "rank": "27", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.soa.ac.in/"
         }
     },
@@ -371,6 +388,7 @@ const storeList = [
             "name": "S.R.M. Institute of Science and Technology",
             "address": "SRM Nagar, Kattankulathur, Kancheepuram - 603203, Tamil Nadu, India",
             "rank": "28", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.srmist.edu.in/"
         }
     },
@@ -384,6 +402,7 @@ const storeList = [
             "name": "Delhi Technological University",
             "address": "Shahbad Daulatpur, Main Bawana Road, Delhi - 110042, India",
             "rank": "29", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://dtu.ac.in/"
         }
     },
@@ -397,6 +416,7 @@ const storeList = [
             "name": "Indian Institute of Technology Jodhpur",
             "address": "NH 62, Nagaur Road, Karwar, Jodhpur - 342037, Rajasthan, India",
             "rank": "30", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://iitj.ac.in/"
         }
     },
@@ -410,6 +430,7 @@ const storeList = [
             "name": "Amity University",
             "address": "Sector-125, Noida - 201313, Uttar Pradesh, India",
             "rank": "31", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.amity.edu/"
         }
     },
@@ -423,6 +444,7 @@ const storeList = [
             "name": "Aligarh Muslim University",
             "address": "Aligarh - 202002, Uttar Pradesh, India",
             "rank": "32", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.amu.ac.in/"
         }
     },
@@ -436,6 +458,7 @@ const storeList = [
             "name": "Indian Institute of Technology Mandi",
             "address": "Kamand, Mandi - 175075, Himachal Pradesh, India",
             "rank": "33", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitmandi.ac.in/"
         }
     },
@@ -449,6 +472,7 @@ const storeList = [
             "name": "Shanmugha Arts Science Technology & Research Academy (SASTRA)",
             "address": "Thirumalaisamudram, Thanjavur - 613401, Tamil Nadu, India",
             "rank": "34", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.sastra.edu/"
         }
     },
@@ -462,6 +486,7 @@ const storeList = [
             "name": "Indian Institute of Engineering Science and Technology, Shibpur",
             "address": "Botanic Garden, Howrah - 711103, West Bengal, India",
             "rank": "35", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iiests.ac.in/"
         }
     },
@@ -475,6 +500,7 @@ const storeList = [
             "name": "Kalasalingam Academy of Research and Education (Kalasalingam University)",
             "address": " Krishnankoil, Srivilliputtur - 626126, Tamil Nadu, India",
             "rank": "36", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.kalasalingam.ac.in/"
         }
     },
@@ -488,6 +514,7 @@ const storeList = [
             "name": "Malaviya National Institute of Technology (MNIT)",
             "address": "JLN Marg, Jaipur - 302017, Rajasthan, India",
             "rank": "37", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.mnit.ac.in/"
         }
     },
@@ -501,6 +528,7 @@ const storeList = [
             "name": "Chandigarh University",
             "address": "NH-95, Chandigarh - Ludhiana Highway, Mohali, Punjab - 140413, India",
             "rank": "38", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.cuchd.in/"
         }
     },
@@ -514,6 +542,7 @@ const storeList = [
             "name": "Kalinga Institute of Industrial Technology (KIIT)",
             "address": " KIIT Road, Patia, Bhubaneswar - 751024, Odisha, India",
             "rank": "39", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://kiit.ac.in/"
         }
     },
@@ -527,6 +556,7 @@ const storeList = [
             "name": "National Institute of Technology Silchar",
             "address": "Silchar, Assam - 788010, India",
             "rank": "40", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nits.ac.in/"
         }
     },
@@ -540,6 +570,7 @@ const storeList = [
             "name": "Indian Institute of Technology Patna",
             "address": "Bihta, Patna - 801103, Bihar, India",
             "rank": "41", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitp.ac.in/"
         }
     },
@@ -553,6 +584,7 @@ const storeList = [
             "name": "Visvesvaraya National Institute of Technology, Nagpur",
             "address": "South Ambazari Road, Nagpur - 440010, Maharashtra, India",
             "rank": "42", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://vnit.ac.in/"
         }
     },
@@ -566,6 +598,7 @@ const storeList = [
             "name": "National Institute of Technology Durgapur",
             "address": "Mahatma Gandhi Avenue, Durgapur - 713209, West Bengal, India",
             "rank": "43", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitdgp.ac.in/"
         }
     },
@@ -579,6 +612,7 @@ const storeList = [
             "name": "Koneru Lakshmaiah Education Foundation University (K L Deemed to be University)",
             "address": "Green Fields, Vaddeswaram, Guntur - 522502, Andhra Pradesh, India",
             "rank": "44", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.kluniversity.in/"
         }
     },
@@ -592,6 +626,7 @@ const storeList = [
             "name": "Sri Sivasubramaniya Nadar College of Engineering (SSN College of Engineering)",
             "address": "Rajiv Gandhi Salai (OMR), Kalavakkam - 603110, Tamil Nadu, India",
             "rank": "45", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.ssn.edu.in/"
         }
     },
@@ -605,6 +640,7 @@ const storeList = [
             "name": "Dr. B R Ambedkar National Institute of Technology, Jalandhar",
             "address": "Grand Trunk Road, Bye Pass, Jalandhar - 144011, Punjab, India",
             "rank": "46", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitj.ac.in/"
         }
     },
@@ -618,6 +654,7 @@ const storeList = [
             "name": "Indian Institute of Technology Bhubaneswar",
             "address": "Argul, Jatni, Khordha - 752050, Odisha, India",
             "rank": "47", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitbbs.ac.in/"
         }
     },
@@ -631,6 +668,7 @@ const storeList = [
             "name": "Indian Institute of Space Science and Technology (IIST)",
             "address": "Valiamala, Thiruvananthapuram - 695547, Kerala, India",
             "rank": "48", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iist.ac.in/"
         }
     },
@@ -644,6 +682,7 @@ const storeList = [
             "name": "Motilal Nehru National Institute of Technology (MNNIT)",
             "address": "Teliarganj, Prayagraj - 211004, Uttar Pradesh, India",
             "rank": "49", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.mnnit.ac.in/"
         }
     },
@@ -657,6 +696,7 @@ const storeList = [
             "name": "Lovely Professional University",
             "address": "Jalandhar - Delhi G.T. Road, Phagwara, Punjab - 144411, India",
             "rank": "50", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.lpu.in/"
         }
     },
@@ -670,6 +710,7 @@ const storeList = [
             "name": "National Institute of Technology Delhi",
             "address": "A-7, Institutional Area, Near Satyawadi Raja Harish Chandra Hospital, Narela, Delhi - 110040, India",
             "rank": "51", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://nitdelhi.ac.in/"
         }
     },
@@ -683,6 +724,7 @@ const storeList = [
             "name": "Visvesvaraya Technological University",
             "address": "Jnana Sangama, Machhe, Belagavi - 590018, Karnataka, India",
             "rank": "52", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://vtu.ac.in/"
         }
     },
@@ -696,6 +738,7 @@ const storeList = [
             "name": "Birla Institute of Technology",
             "address": "Mesra, Ranchi - 835215, Jharkhand, India",
             "rank": "53", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.bitmesra.ac.in/"
         }
     },
@@ -709,6 +752,7 @@ const storeList = [
             "name": "UPES (University of Petroleum and Energy Studies)",
             "address": "Bidholi, Via-Prem Nagar, Dehradun - 248007, Uttarakhand, India",
             "rank": "54", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.upes.ac.in/"
         }
     },
@@ -722,6 +766,7 @@ const storeList = [
             "name": "International Institute of Information Technology Hyderabad",
             "address": "Gachibowli, Hyderabad - 500032, Telangana, India",
             "rank": "55", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iiit.ac.in/"
         }
     },
@@ -735,6 +780,7 @@ const storeList = [
             "name": "National Institute of Technology Patna",
             "address": "Ashok Rajpath, Patna - 800005, Bihar, India",
             "rank": "56", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nitp.ac.in/"
         }
     },
@@ -748,6 +794,7 @@ const storeList = [
             "name": "Defence Institute of Advanced Technology",
             "address": "Girinagar, Pune - 411025, Maharashtra, India",
             "rank": "57", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.diat.ac.in/"
         }
     },
@@ -761,6 +808,7 @@ const storeList = [
             "name": "National Institute of Technology Kurukshetra",
             "address": "Thanesar, Kurukshetra - 136119, Haryana, India",
             "rank": "58", 
+            "photo" : './img/logo/ilogo.png',
             "website" : " https://www.nitkkr.ac.in/"
         }
     },
@@ -774,6 +822,7 @@ const storeList = [
             "name": "Indian Institute of Technology, Tirupati",
             "address": "Yerpedu, Tirupati - 517520, Andhra Pradesh, India",
             "rank": "59", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://iittp.ac.in/"
         }
     },
@@ -787,6 +836,7 @@ const storeList = [
             "name": "Netaji Subhas University of Technology (NSUT)",
             "address": "Dwarka Sector-3, New Delhi - 110078, India",
             "rank": "60", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.nsit.ac.in/"
         }
     },
@@ -800,6 +850,7 @@ const storeList = [
             "name": "Manipal Institute of Technology",
             "address": "Manipal - 576104, Karnataka, India",
             "rank": "61", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://manipal.edu/mit.html"
         }
     },
@@ -813,6 +864,7 @@ const storeList = [
             "name": "Graphic Era University",
             "address": "566/6, Bell Road, Clement Town, Dehradun - 248002, Uttarakhand, India",
             "rank": "62", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.geu.ac.in/"
         }
     },
@@ -826,6 +878,7 @@ const storeList = [
             "name": "PSG College of Technology",
             "address": "Avinashi Road, Peelamedu, Coimbatore - 641004, Tamil Nadu, India",
             "rank": "63", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.psgtech.edu/"
         }
     },
@@ -839,6 +892,7 @@ const storeList = [
             "name": "Saveetha Institute of Medical and Technical Sciences",
             "address": "Thandalam, Chennai - 602105, Tamil Nadu, India",
             "rank": "64", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.saveetha.ac.in/"
         }
     },
@@ -852,6 +906,7 @@ const storeList = [
             "name": "Sardar Vallabhbhai National Institute of Technology",
             "address": "Ichchhanath, Dumas Road, Surat - 395007, Gujarat, India",
             "rank": "65", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.svnit.ac.in/"
         }
     },
@@ -865,6 +920,7 @@ const storeList = [
             "name": "Sathyabama Institute of Science and Technology",
             "address": "Rajiv Gandhi Salai, Jeppiaar Nagar, Chennai - 600119, Tamil Nadu, India",
             "rank": "66", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.sathyabama.ac.in/"
         }
     },
@@ -878,6 +934,7 @@ const storeList = [
             "name": "Indian Institute of Technology Jammu",
             "address": "Jagti, Nagrota, Jammu - 181221, Jammu and Kashmir, India",
             "rank": "67", 
+            "photo" : './img/logo/ilogo.png',
             "website" : "https://www.iitjammu.ac.in/"
         }
     },
@@ -891,7 +948,8 @@ const storeList = [
             "name": "Banasthali Vidyapith",
             "address": "Banasthali - 304022, Rajasthan, India",
             "rank": "68", 
-            "website" : "https://www.banasthali.org/"
+            "website" : "https://www.banasthali.org/",
+            "photo" : './img/logo/ilogo.png',
         }
     },
     {
@@ -904,7 +962,8 @@ const storeList = [
             "name": "Indian Institute of Technology Palakkad",
             "address": "Ahalia Integrated Campus, Kozhipara, Palakkad - 678557, Kerala, India",
             "rank": "69", 
-            "website" : "https://www.iitpkd.ac.in/"
+            "website" : "https://www.iitpkd.ac.,in/",
+            "photo" : './img/logo/ilogo.png'
         }
     },
     {
@@ -917,7 +976,8 @@ const storeList = [
             "name": "National Institute of Technology, Raipur",
             "address": "G.E. Road, Raipur - 492010, Chhattisgarh, India",
             "rank": "70", 
-            "website" : "https://www.nitrr.ac.in/"
+            "website" : "https://www.nitrr.ac.in/",
+            "photo" : './img/logo/ilogo.png'
         }
     },
     /*
@@ -931,6 +991,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "71", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
@@ -944,6 +1005,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "72", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
@@ -957,6 +1019,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "73", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
@@ -970,6 +1033,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "74", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
@@ -983,6 +1047,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "75", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
@@ -996,6 +1061,7 @@ const storeList = [
             "name": "",
             "address": "",
             "rank": "", 
+            "photo" : './img/logo/ilogo.png',
             "website" : ""
         }
     },
